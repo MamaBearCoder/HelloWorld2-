@@ -1,0 +1,9 @@
+package me.mc;
+
+public class Main {
+
+
+    public static void main(String[] args) {
+        System.out.println("Hello World! Love from Maryland");
+    }
+}
